@@ -8,11 +8,11 @@
   },
   "author": "hongfa",
   "license": "ISC",
-  "peerDependencies": {
+  "dependencies": {
     "@babel/parser": "^7.21.3",
     "recast": "^0.22.0"
   },
-  "devDependencies": {
+  "peerDependencies": {
     "webpack": "^5.76.3",
     "webpack-cli": "^5.0.1"
   },
