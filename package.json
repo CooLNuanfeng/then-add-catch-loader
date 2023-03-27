@@ -1,0 +1,38 @@
+{
+  "name": "then-add-catch-loader",
+  "version": "1.0.0",
+  "description": "function then auto add catch, when use this webpack loader",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "author": "hongfa",
+  "license": "ISC",
+  "peerDependencies": {
+    "@babel/parser": "^7.21.3",
+    "recast": "^0.22.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CooLNuanfeng/then-add-catch-loader.git"
+  },
+  "keywords": [
+    "webapck",
+    "then",
+    "add",
+    "catch",
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/CooLNuanfeng/then-add-catch-loader/issues"
+  },
+  "homepage": "https://github.com/CooLNuanfeng/then-add-catch-loader#readme"
+}
