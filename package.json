@@ -1,6 +1,6 @@
 {
   "name": "then-add-catch-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "function then auto add catch, when use this webpack loader",
   "main": "lib/index.js",
   "scripts": {
