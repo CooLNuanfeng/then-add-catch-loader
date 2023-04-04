@@ -17,6 +17,7 @@ p.then(res => {
 }).catch(e=>console.log(e))
 
 
+this.$axios.get('sdfasf').then()
 // instance.ready().then(res=>{
 //   axios.get('http://www.baidu.com').then(rep=>{
 
